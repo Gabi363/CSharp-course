@@ -5,3 +5,4 @@
 ## [Lab04:](https://github.com/Gabi363/CSharp_course/tree/main/lab4) LINQ
 ## [Lab05:](https://github.com/Gabi363/CSharp_course/tree/main/lab5) Programowanie współbieżne i synchronizacja (Thread)
 ## [Lab06:](https://github.com/Gabi363/CSharp_course/tree/main/lab6) Programowanie sieciowe w oparciu o gniazda TCP/IP
+## [Lab07:](https://github.com/Gabi363/CSharp_course/tree/main/lab7) Podstawowe funkcje kryptograficzne
