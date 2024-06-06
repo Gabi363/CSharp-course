@@ -1,0 +1,10 @@
+<div class="text-center">
+    <h1 class="display-4">Welcome to your page!</h1>
+</div>
+
+
+@if (ViewData.ContainsKey("username") && ViewData["username"] != null)
+{
+    <h2>@ViewData["Message"]</h2>
+    <p style="float:right;">Username: @ViewData["username"]</p>
+}
