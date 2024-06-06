@@ -7,3 +7,7 @@
 ## [Lab06:](https://github.com/Gabi363/CSharp_course/tree/main/lab6) Programowanie sieciowe w oparciu o gniazda TCP/IP
 ## [Lab07:](https://github.com/Gabi363/CSharp_course/tree/main/lab7) Podstawowe funkcje kryptograficzne
 ## [Lab08:](https://github.com/Gabi363/CSharp_course/tree/main/lab8) SQLite
+## [Lab09:](https://github.com/Gabi363/CSharp_course/tree/main/lab9) Podstawy ASP.NET core MVC - kontrolery i widoki
+## [Lab10-11:](https://github.com/Gabi363/CSharp_course/tree/main/lab9) ASP.NET core MVC oraz REST API - projekt aplikacji internetowej
+## [Lab012:](https://github.com/Gabi363/CSharp_course/tree/main/lab12) Podstawy programowania reaktywnego w C# przy użyciu Rx
+
